@@ -1,10 +1,10 @@
-document.getElementById('subtitle').innerHTML = 'Benvenuto' 
+document.getElementById('subtitle').innerHTML = 'Benvenuto'; 
 
-let name = prompt('Inserisci il tuo nome')
+let name = prompt('Inserisci il tuo nome');
 
-let surname = prompt('Inserisci il tuo congome')
+let surname = prompt('Inserisci il tuo congome');
 
-let colore_preferito = prompt('Inserisci il tuo colore preferito')
+let colore_preferito = prompt('Inserisci il tuo colore preferito');
 
 let persona = name + surname + colore_preferito;
 
